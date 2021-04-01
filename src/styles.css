@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+
+.graybg {
+    background: lightgray;
+}
+.whitebg {
+    background: white;
+}
+.text-underline {
+    text-decoration: underline;
+}
+.card-p {
+    padding-right: 5px !important;
+    padding-bottom: 10px !important;
+    padding-left: 5px !important;
+}
+.footer {
+    padding: 1rem;
+    text-align: center;
+}
